@@ -13,7 +13,7 @@ Usage
 
 require_once __DIR__ . '/src/Elo.php';
 
-$elo = new Elo
+$elo = new Elo;
 
 $player_a->rating = 1200;
 $player_b->rating = 1430;
